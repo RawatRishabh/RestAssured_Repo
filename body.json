@@ -1,0 +1,8 @@
+{
+   "name" : "Scott",
+   "location" : "France",
+   "phone" : "123457",
+   "courses" : [
+     "C","C++"
+   ]
+}
